@@ -1,6 +1,6 @@
 {
   "name": "vuepress-generatesidebar",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "repository": "https://github.com/wangtianyu456/vuepress-generateSidebar.git",
   "author": "wtianyu <769423688@qq.com>",
